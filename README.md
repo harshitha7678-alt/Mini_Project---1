@@ -147,6 +147,4 @@ Minor Project – Group DNA
 
 ---
 
-# 📄 License
 
-This project is developed for educational and academic purposes.
